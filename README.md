@@ -1,2 +1,3 @@
-# navBar
-responsive Nav Bar
+# Navigation Bar 
+
+- responsive Nav Bar
